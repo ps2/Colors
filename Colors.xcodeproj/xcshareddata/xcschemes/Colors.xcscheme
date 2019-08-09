@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C1D140B322FC758A00DA6242"
-               BuildableName = "EarthyPalettePlugin.bundle"
+               BuildableName = "EarthyPalette.plugin"
                BlueprintName = "EarthyPalettePlugin"
                ReferencedContainer = "container:Colors.xcodeproj">
             </BuildableReference>
